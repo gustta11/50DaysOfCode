@@ -1,6 +1,6 @@
 # Challenge 01
 
-- Progama que captura números informados pelo usuário, adiciona em uma lista e faz operações como soma, média, maior número menor número.
+- Progama que captura números informados pelo usuário, adiciona em uma lista e faz operações como soma, média, maior número e menor número.
 
 ## Linguagem
 
