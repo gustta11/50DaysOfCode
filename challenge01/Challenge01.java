@@ -37,7 +37,7 @@ public class Challenge01 {
                         continue;
                     }
                     int soma = lista.soma();
-                    System.out.println(soma);
+                    System.out.println("Soma: " + soma);
                     break;
                 case 3:
                     if(lista.validarLista() == 0){
@@ -45,7 +45,7 @@ public class Challenge01 {
                         continue;
                     }
                     double media = lista.media();
-                    System.out.println(media);
+                    System.out.println("Média: " + media);
                     break;
                 case 4:
                     if(lista.validarLista() == 0){
@@ -53,7 +53,7 @@ public class Challenge01 {
                         continue;
                     }
                     int maiorNumero = lista.maiorNumero();
-                    System.out.println(maiorNumero);
+                    System.out.println("Maior número: " + maiorNumero);
                     break;
                 case 5:
                     if(lista.validarLista() == 0){
@@ -61,7 +61,7 @@ public class Challenge01 {
                         continue;
                     }
                     int menorNumero = lista.menorNumero();
-                    System.out.println(menorNumero);
+                    System.out.println("Menor número: " + menorNumero);
                     break;
                 case 6:
                     System.out.println("Saindo....");
