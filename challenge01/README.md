@@ -9,6 +9,7 @@
 ## Funcionalidades 
 
 - Menu de opções
+- Inserção de números na lista
 - Captura de maior número
 - Captura de menor número
 - Consulta de soma dos números
