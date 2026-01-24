@@ -1,6 +1,6 @@
 # 50 Days OF Code
 
-- Nesse repositório colocarei os desafios semanais dos 50 dias de código.
+- Nesse repositório colocarei os desafios semanais e chekins diários dos 50 dias de código.
 
 - Linguagem utilizada: Java
 
